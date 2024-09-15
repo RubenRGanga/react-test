@@ -34,7 +34,8 @@ npm run dev
 - **Ordenar elementos por nombre.**
 - **Transiciones suaves al agregar, editar o eliminar elementos.**
 - **Uso de React Context API para manejar el estado global de la aplicación.**
-- **Decisiones Técnicas**
+  
+## **Decisiones Técnicas**
 - **React + Vite como herramienta de desarrollo rápido y eficiente.**
 - **TypeScript para tipado estático y mejoras de productividad.**
 - **Context API para manejar el estado de los elementos de la lista.**
